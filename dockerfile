@@ -1,2 +1,2 @@
 FROM httpd
-copy basichtmlcode .
+copy basichtmlcode /usr/local/apache2/htdocs/
